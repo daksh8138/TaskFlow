@@ -14,8 +14,8 @@
 
 ## 👥 The Team
 * **Daksh Javaria** - Backend Architecture & DevOps
-* **Maanav** - Frontend UI/UX
-* **Ranveer** - Documentation & Project Management
+* **Maanav Jindam** - Frontend UI/UX
+* **Ranveer Kenjale** - Documentation & Project Management
 
 ## 📦 How to Run
 1. Clone the repo: `git clone https://github.com/daksh8138/TaskFlow`
@@ -23,3 +23,7 @@
 3. Install Frontend: `cd client && npm install`
 4. Start Server: `node index.js`
 5. Start Client: `npm run dev`
+
+## 🔮 Future Plans
+* Add AI-generated task summaries.
+* Mobile app integration.
