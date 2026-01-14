@@ -18,7 +18,7 @@
 * **Ranveer** - Documentation & Project Management
 
 ## 📦 How to Run
-1. Clone the repo: `git clone [REPO_LINK]`
+1. Clone the repo: `git clone https://github.com/daksh8138/TaskFlow`
 2. Install Backend: `cd server && npm install`
 3. Install Frontend: `cd client && npm install`
 4. Start Server: `node index.js`
